@@ -12,4 +12,4 @@ By the end of this course, you would have:
 - A project to showcase
 - Achieved more than what most people who have been trying to learn on their own for months have not achieved.
 
-Enroll for this mini course, visit https://solidity-mastery-course.com/free
+Enroll for this mini course, visit https://solidity-mastery-course.com/mini-course
